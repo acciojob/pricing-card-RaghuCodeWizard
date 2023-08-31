@@ -1,1 +1,53 @@
-/*  your css code here. If applicable */
+#d {
+  margin: 0 auto; /* Center the container */
+  width: 400px;
+  height: 600px;
+  background-color: #F1F1F1;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4);
+}
+
+img {
+  width: 80%;
+  height: 35%;
+  margin-inline: 30px auto;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+h1 {
+  font-weight: 900;
+  text-align: center;
+  font-size: 55px;
+  margin-top: -10px;
+}
+
+#h1 {
+  font-size: 25px;
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: -30px;
+	font-weight:700;
+}
+
+#p {
+  font-size: 25px;
+  width: 70%;
+  margin: 0 auto; /* Center horizontally */
+  margin-top: 10px;
+  text-align: center; /* Center text */
+  font-weight: 700;
+}
+
+button {
+  background-color: #FE625A;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  border-radius: 7px;
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+}
+
